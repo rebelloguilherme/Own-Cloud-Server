@@ -12,11 +12,6 @@ Seguindo o passo a passo você conseguirá configurar a seu próprio servidor de
 > [Gravador de Imagem: Balena Etcher](https://github.com/balena-io/etcher/releases/download/v1.5.91/balenaEtcher-Portable-1.5.91.exe).
 
 > [Imagem do S.O.: Bionic server](https://imola.armbian.com/cubieboard2/archive/Armbian_20.02.1_Cubieboard2_bionic_current_5.4.20.7z).
-> []().
-> []().
-> []().
-> []().
-> []().
 
 
 ### Hardware utilizado
