@@ -1,5 +1,5 @@
 ---
-title: Bem Vindo!
+title: OWN CLOUD SERVER
 ---
 
 Este trabalho consiste em um projeto de implementação de sua própria nuvem de armazenamento de dados **Own Cloud**.
@@ -28,9 +28,9 @@ Samsung M3 - HD externo 1TB
 
 O primeiro passo consiste na preparação do ambiente de servidor e será feito gravando a imagem do sistema operacional no cartão micro SD.
 
-1º Após baixarmos os softwares listados na seção software, extraimos a imagem do sistema operacional
-2º Inserimos o cartão micro SD no computador;
-3º Abrimos o sofware Balena Etcher, selecionamos o a imagem do sistema operacional extraido anteriormente(formato .IMG)
+1º Após baixarmos os softwares listados na seção software, extraimos a imagem do sistema operacional.
+2º Inserimos o cartão micro SD no computador.
+3º Abrimos o sofware Balena Etcher, selecionamos o a imagem do sistema operacional extraido anteriormente(formato .IMG).
 4º Selecionamos o cartão micro SD o qual será gravado a imagem e clicamos em "Flash!" para iniciar a gravação.
 5º Após alguns minutos a gravação será concluida.
 
