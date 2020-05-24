@@ -1,17 +1,24 @@
 ---
-title: Welcome
+title: Bem Vindo!
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Este trabalho consiste em um projeto de implementação de sua própria nuvem de armazenamento de dados **Own Cloud**.
+Foi desenvolvido para elucidar e fixar os conteúdos aprendidos na matéria de **Sistemas Distribuidos** do curso de **Ciências da Computação**, **7º Período**.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Seguindo o passo a passo você conseguirá configurar a seu próprio servidor de arquivos na nuvem, semelhante ao Google Drive, One Drive, Mega, etc..
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### Getting Started
+### Softwares Utilizados durante a instalação
+> [Gravador de Imagem: Balena Etcher](https://github.com/balena-io/etcher/releases/download/v1.5.91/balenaEtcher-Portable-1.5.91.exe).
+> [Imagem de instalação: Bionic server](https://imola.armbian.com/cubieboard2/archive/Armbian_20.02.1_Cubieboard2_bionic_current_5.4.20.7z).
+> []().
+> []().
+> []().
+> []().
+> []().
+
+
+### Hardware utilizado
 
 Getting a message sent is quick and easy with ChatApp:
 
